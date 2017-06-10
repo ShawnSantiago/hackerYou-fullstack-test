@@ -1,0 +1,19 @@
+{
+  "name": "hacker-you-test",
+  "version": "1.0.0",
+  "description": "Fullstack Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnSantiago/hackerYou-fullstack-test.git"
+  },
+  "author": "Shawn Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawnSantiago/hackerYou-fullstack-test/issues"
+  },
+  "homepage": "https://github.com/ShawnSantiago/hackerYou-fullstack-test#readme"
+}
